@@ -1,2 +1,2 @@
 # blog
-a personal blog user spring boot 2
+a personal blog use spring boot 2
